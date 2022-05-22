@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ramcord
+- 👋 Hi, I’m La'Moria @ramcord
 - 👀 I’m interested in ...Metaphysics,biomolecular engineering, otto tech 
-- 🌱 I’m currently learning ...sdet everything ie java,linux,junit,selenium
+- 🌱 I’m currently learning ...SDET everything ie java,linux,junit,selenium
 - 💞️ I’m looking to collaborate on ...Sprint 2
 - 📫 How to reach me ...lperminas@yahoo.com
 
